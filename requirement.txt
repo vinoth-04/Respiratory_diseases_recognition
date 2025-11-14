@@ -1,9 +1,0 @@
-librosa
-numpy
-pandas
-scikit-learn
-tensorflow
-Flask==2.3.3
-joblib
-Werkzeug==2.3.7
-matplotlib
